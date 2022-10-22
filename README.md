@@ -3,4 +3,5 @@ Week 9 In Class Assignment
 
 uhhh. This is a readme?
 
-Run the main file.
+Run the ahall_assignment1_main.py file.
+
